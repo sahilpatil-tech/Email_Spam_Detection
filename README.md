@@ -1,4 +1,5 @@
-# Email_Spam_Detection
+# 📧 Spam Mail Detection System
+
 A Python-based **Spam Mail Detection System** developed using **Tkinter (CustomTkinter)** for the graphical user interface and **MongoDB** for database management.
 
 This project uses a **keyword-based and pattern-based spam detection approach** to analyze email content and classify messages as **SPAM** or **LEGITIMATE**.
@@ -158,4 +159,4 @@ The system provides:
 
 ## 👨‍💻 Developed By
 
-**Sahil Patil**  
+**Rohit Garudkar**  
